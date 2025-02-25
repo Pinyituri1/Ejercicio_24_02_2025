@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Variables para contar monedas y total ahorrado
+        // Variables para contar monedas y total ahorrado en pesos
         int monedas20 = 0, monedas50 = 0, monedas100 = 0, monedas200 = 0, monedas500 = 0;
         int total = 0;
         int opcion;
